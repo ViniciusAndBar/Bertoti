@@ -3,7 +3,7 @@
 </h1>
 
 # Acertos
-### 3.2.4 - Identificação Consistente & 2.4.11 - Focus Appearance (Minimum)
+### 3.2.4 - Identificação Consistente  &  2.4.11 - Focus Appearance (Minimum)
  
 Para uma navegação consistente entre as pags. o site possui icones e tags com funções semelhantes e aplica "bold" na Tag da aba atual em que o usuário se encontra, utilizando, portanto, de padrões e garantindo que o foco seja explicitado com o contorno.
 
