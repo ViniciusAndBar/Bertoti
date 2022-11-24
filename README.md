@@ -1,4 +1,6 @@
-# Heurísticas WCAG
+<h1 align="center">
+  # Heurísticas WCAG
+</h1>
 
 # Acertos
 ### 3.2.4 - Identificação Consistente & 2.4.11 - Focus Appearance
