@@ -40,8 +40,9 @@ Estes sites por sua vez possuem muitas informações, tanto escritas quanto não
 <img src="img/Americanas.png">
 <img src="img/Pichau.png">
 
-## 1.4.3 Percepitivel / Distinguíveis / Contraste
+## Heurística Nielsen Norman - 8 Design estético e minimalista
+Este site é de fato "minimalista" se levar em conta que não há informações irrelevantes ou raramente necessárias, porém, o mesmo peca em questão de organização e estética, em vista de que ele dispõe mal os campos de input e seus respectivos labels
 
-<img src="img/.png">
+<img src="img/TribunalJusticaSergipe.png">
 
 
