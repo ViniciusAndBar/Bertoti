@@ -17,18 +17,22 @@ As cores do fundo com a do texto possuem uma taxa de contraste muito baixa, faze
 
 <img src="img/XPro.png">
 
-## 1.1.1 Percepitivel / Texto Alternativo / Texto sem contexto
+## 2.2.4 Interrupções
+Site com muitas propagandas (Interrupções), sendo que algumas não são possíveis fechar por completo e outras apenas aparecem na sua tela.
 
+<img src="img/NoticiasAutomotivas.png">
 
-Para o usuario que entrar no site, ele provavelmente irá sair imediatamente, pois não tem como descobrir o que está passando dentro do propio website, além das coisas não carregarem os texto não estão nem legiveis para ter um contexto do mesmo.
+## 2.4.2 Página intitulada
+Página não possui titulo ou descrição sobre de que se trata
+
+<img src="img/Sintegra.png">
+
+## 1.4.3 Percepitivel / Distinguíveis / Contraste
 
 <img src="img/.png">
 
 ## 1.4.3 Percepitivel / Distinguíveis / Contraste
 
-Por ser um site já de fundo branco, os textos serem quase da mesma tonalidade do fundo acaba fazendo o usuario forçar para tentar compreender o que está escrito dentro das caixas de informação 
-
 <img src="img/.png">
 
-### WCAG Contrast checker
-<img src="img/.png">
+
