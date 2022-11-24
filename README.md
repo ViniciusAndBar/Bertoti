@@ -17,7 +17,7 @@ As cores do fundo com a do texto possuem uma taxa de contraste muito baixa, faze
 
 <img src="img/XPro.png">
 
-## 2.2.4 Interrupções
+## 2.2.4 - Interrupções
 Site com muitas propagandas (Interrupções), sendo que algumas não são possíveis fechar por completo e outras apenas aparecem na sua tela do nada.
 
 <img src="img/NoticiasAutomotivas.png">
@@ -28,15 +28,17 @@ Estes sites não possuem uma versão mobile (Não são responsíveis) e/ou não 
 <img src="img/BibliotecaFGV.png">
 <img src="img/Paysandu.png">
 
-E este em especifico, além de estar fora de proporção e não ser responsivel, também infringe a Heuristica 1.4 Destinguivel - Mais especificamente 
-  ## 1.4.1 Uso de cores
-
+## 1.4.1 - Uso de cores
+E este em especifico, além de estar fora de proporção e não ser responsivel, também infringe a Heuristica 1.4 Destinguivel
+  
 <img src="img/Sintegra.png">
 
 
-## 1.4.3 Percepitivel / Distinguíveis / Contraste
+## 1 - Perceptível & 1.1 – Alternativas de Texto & 1.1.1 - Conteúdo não textual & 1.4.11 - Contraste não textual
+Estes sites por sua vez possuem muitas informações, tanto escritas quanto não textuais, desorganizando a informação e confundindo o usuário, além de poluir a tela e criar um contraste não textual desagradável.
 
-<img src="img/.png">
+<img src="img/Americanas.png">
+<img src="img/Pichau.png">
 
 ## 1.4.3 Percepitivel / Distinguíveis / Contraste
 
