@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Heurísticas WCAG
+  IHC - Heurísticas WCAG
 </h1>
 
 # Acertos
