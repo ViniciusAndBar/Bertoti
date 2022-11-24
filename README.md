@@ -1,3 +1,5 @@
+# Heurísticas WCAG
+
 # Acertos
 ## 3.2.4 - Identificação Consistente & 2.4.11 - Focus Appearance
  
@@ -5,12 +7,6 @@ Para uma navegação consistente entre as pags. o site possui icones e tags com 
 
 <img src="img/DM.png">
 
-## 2.4.6 Operavel / Navegabilidade / Titulos e rotulos
-
-Uma pagina, para guiar o usuario corretamente precisa mostrar a cada aba navegavel o seu intuito do que ela quer passar para o usuario, e o titulo é o responsavel por demontrar isso muito bem, aplicações que utilizam isso acabam deixando mais claro o quer passar de forma curta e objetiva. Como mostrado no I❤PDF, ele mostra o objetivo da aba de forma simples atráves do titulo e no rotulo passa o que tem que fazer de forma clara e objetiva
-
-
-<img src="img/.png">
 
 # Erros
 
