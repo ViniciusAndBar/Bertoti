@@ -27,7 +27,7 @@ O LinkedIn é um ótimo exemplo de site responsivel, alterando a disposição da
 
 ## Heurística Nielsen Norman - 8 Design estético e minimalista & 1.4.3 - Contraste (Enhanced) & 3.2.4 - Identificação Consistente
  
-O Site da Medium por sua vez, possui um bom contraste (Fundo branco e letras pretas é muito melhor que o oposto), faz uso de identificação consistente, a medida que sublinha a tag em que o usuário se encontra e consegue deixar claro o que é link, botão e apenas texto. Fora tudo, ele também se enquadra dentro da euristica de Nielsen a medida que possui um design simple e claro com a marca registrada (Estas formas geometricas formadas por palavras que você encontra pelo site)
+O Site da Medium por sua vez, possui um bom contraste (Fundo branco e letras pretas é muito melhor que o oposto), faz uso de identificação consistente, a medida que sublinha a tag em que o usuário se encontra e consegue deixar claro o que é link, botão e apenas texto. Fora tudo, ele também se enquadra dentro da euristica de Nielsen a medida que possui um design simple e claro com a marca registrada da empresa (Estas formas geometricas formadas por palavras que você encontra pelo site).
 
 <img src="img/Medium.png">
 
