@@ -19,9 +19,9 @@ Assim como o primeiro, este site também aplica "bold" sobre a tag atual, afim d
  
 O LinkedIn é um ótimo exemplo de site responsivel, alterando a disposição da informação em column, sem a perda da mesma e de forma simples.
 
+<!-- <div style="display: flex; flex-direction: column;"> -->
+<div align="center">
   <img src="img/LinkedIn.png">
-<div style="display: flex; flex-direction: column;">
-  <img src="img/LinkedIn_Respose.png">
   <img src="img/LinkedIn_Respose.png"> 
 </div>
 
