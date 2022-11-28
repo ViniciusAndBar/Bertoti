@@ -15,14 +15,14 @@ Assim como o primeiro, este site também aplica "bold" sobre a tag atual, afim d
 
 <img src="img/TecSUS.png">
 
-<h1 align="center">
-  ## 1.3 - Adaptável
-</h1>
+## 1.3 - Adaptável
  
 O LinkedIn é um ótimo exemplo de site responsivel, alterando a disposição da informação em column, sem a perda da mesma e de forma simples.
 
-<img src="img/LinkedIn.png">
-<img src="img/LinkedIn_Respose.png">
+<div align="center">
+  <img src="img/LinkedIn.png">
+  <img src="img/LinkedIn_Respose.png"> 
+</div>
 
 # Erros
 
