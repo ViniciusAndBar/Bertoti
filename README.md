@@ -9,11 +9,18 @@ Para uma navegação consistente entre as pags. o site possui icones e tags com 
 
 <img src="img/DM.png">
 
-## 3.2.4 - Identificação Consistente  &  2.4.11 - Focus Appearance (Minimum)
+## 1.4.3 - Contraste (Minimum) & 3.2.4 - Identificação Consistente  &  2.4.11 - Focus Appearance (Minimum)
  
 Assim como o primeiro, este site também aplica "bold" sobre a tag atual, afim de auxiliar o usuário em sua localização, além de possuir um bom contraste de cores e um padrão para tags que façam a mesma função, exemplo: Todas as tags da nav são um link, enquanto logo abaixo, há apenas texto com a mesma formatação.
 
 <img src="img/TecSUS.png">
+
+## 1.3 - Adaptável
+ 
+O LinkedIn é um ótimo exemplo de site responsivel, alterando a disposição da informação em column, sem a perda da mesma e de forma simples.
+
+<img src="img/LinkedIn.png">
+<img src="img/LinkedIn_Respose.png">
 
 # Erros
 
